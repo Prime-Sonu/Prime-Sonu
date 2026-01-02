@@ -8,10 +8,6 @@
   </a>
 </p>
 
-<div align="center">
-![](https://github-readme-stats.vercel.app/api?username=Prime-Sonu&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-</div>
-
 <p align="center">
 <a href="https://sayan-tech.onrender.com"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%E2%98%95️-orange?style=for-the-badge" /></a>
 </p>
